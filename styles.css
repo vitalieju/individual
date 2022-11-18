@@ -109,7 +109,7 @@ span
   z-index: 25px;
   background: transparent;  
   transform-origin: left;
-  animation: animate 1s linear infinite;
+  animation: animate 4s linear infinite;
 }
 
 span:after
