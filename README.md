@@ -1,2 +1,2 @@
-# individual proect
+# individual proiect
 bla bla bla 
