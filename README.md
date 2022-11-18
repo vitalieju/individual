@@ -1,2 +1,3 @@
 # individual proiect
-bla bla bla 
+ceas de perete analog
+cu ceas si data
